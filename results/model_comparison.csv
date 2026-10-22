@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,False Positives,False Negatives,Error Cost
+Logistic Regression,0.78,0.6667,0.5333,0.5926,0.804,16,28,156
+Decision Tree,0.625,0.3846,0.4167,0.4,0.5655,40,35,215
+Random Forest,0.755,0.6486,0.4,0.4948,0.777,13,36,193

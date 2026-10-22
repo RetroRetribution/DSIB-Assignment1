@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+Logistic Regression,0.755,0.6233,0.4708,0.5349,0.7843
+Decision Tree,0.6712,0.4499,0.45,0.4478,0.608
+Random Forest,0.7412,0.6369,0.3458,0.4431,0.7826

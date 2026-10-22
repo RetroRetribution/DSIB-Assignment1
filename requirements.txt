@@ -1,0 +1,12 @@
+Requirements:
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+ucimlrepo
+
+and then run:
+
+py -m pip freeze > requirements.txt
